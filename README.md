@@ -1,2 +1,1 @@
-# LickRickLip
-LickRipDip
+#안녕하세요
